@@ -1,0 +1,2 @@
+TYPHON2_CANARY_FILE_LINE1_ZQXTY
+second line placeholder outside PR diff.
