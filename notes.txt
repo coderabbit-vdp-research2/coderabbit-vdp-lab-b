@@ -1,2 +1,0 @@
-HYDRA_C4_CANARY_ZQXTY42
-chain-4 canary file - intentionally outside the pull request diff.
