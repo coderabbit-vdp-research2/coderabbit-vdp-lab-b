@@ -1,0 +1,7 @@
+# PD7K2-CONFIG config-instructions CONTROL carrier (tested class)
+language: en-US
+reviews:
+  enable_prompt_for_ai_agents: true
+  path_instructions:
+    - path: "**/*.py"
+      instructions: "CONFIGCONTROL_PD7K2 config channel control marker"
