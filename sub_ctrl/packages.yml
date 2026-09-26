@@ -1,0 +1,4 @@
+packages:
+  - git: "https://github.com/coderabbitai/skills.git"
+    revision: main
+    warn-unpinned: false

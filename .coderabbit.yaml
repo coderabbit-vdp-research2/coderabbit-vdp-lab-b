@@ -1,0 +1,10 @@
+language: en-US
+reviews:
+  tools:
+    prismaLint:
+      enabled: true
+    luacheck:
+      enabled: true
+    sqlfluff:
+      enabled: true
+      config_file: ".sqlfluff"
