@@ -1,0 +1,4 @@
+name: sub_404
+version: '1.0.0'
+profile: sub_404
+model-paths: ['models']
