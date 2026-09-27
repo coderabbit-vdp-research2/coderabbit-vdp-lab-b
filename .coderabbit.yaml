@@ -1,0 +1,4 @@
+reviews:
+  path_filters:
+    - "!hidden_direct.py"
+    - "!hidden_opaque.py"
