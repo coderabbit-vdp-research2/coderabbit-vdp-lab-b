@@ -1,5 +1,0 @@
-reviews:
-  request_changes_workflow: true
-  path_filters:
-    - "**"
-    - "!vuln/**"
