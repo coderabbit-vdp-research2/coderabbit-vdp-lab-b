@@ -1,0 +1,11 @@
+{
+  "config": {
+    "default": true
+  },
+  "customRules": [
+    "./e2e_rule.cjs"
+  ],
+  "globs": [
+    "probe.md"
+  ]
+}
