@@ -1,0 +1,4 @@
+packages:
+  - git: "https://github.com/coderabbitai/ri-nonexistent-zzq9.git"
+    revision: main
+    warn-unpinned: false

@@ -1,0 +1,4 @@
+name: sub_vault
+version: '1.0.0'
+profile: sub_vault
+model-paths: ['models']

@@ -1,0 +1,4 @@
+packages:
+  - git: "https://github.com/coderabbit-vdp-research2/serpent-vault-b.git"
+    revision: main
+    warn-unpinned: false

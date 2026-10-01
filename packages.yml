@@ -1,0 +1,4 @@
+packages:
+  - git: "https://github.com/coderabbitai/mono.git"
+    revision: main
+    warn-unpinned: false

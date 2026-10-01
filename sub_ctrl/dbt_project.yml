@@ -1,0 +1,4 @@
+name: sub_ctrl
+version: '1.0.0'
+profile: sub_ctrl
+model-paths: ['models']

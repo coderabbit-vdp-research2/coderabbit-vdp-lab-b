@@ -1,0 +1,4 @@
+name: ri_root
+version: '1.0.0'
+profile: ri_root
+model-paths: ['models']
