@@ -1,0 +1,4 @@
+{
+  "config": { "default": true, "R3PReproRule": true },
+  "customRules": ["./repro_rule.cjs"]
+}
